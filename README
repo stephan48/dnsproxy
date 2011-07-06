@@ -1,0 +1,5 @@
+Hi,
+
+This is a simple dns proxy for forwarding port 53 to port 5353.
+Currently it works on windows with strawberryperl 5.12.1, currently ipv6 doesnt work.
+
